@@ -10,6 +10,11 @@ module.exports = {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        primary: '#F3B70E',
+        secondary: '#F39DB6',
+      },
+      fontFamily: {
+        'brasika': ['Brasika Display', 'sans-serif'],
       },
     },
   },
